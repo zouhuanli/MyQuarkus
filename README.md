@@ -12,5 +12,5 @@ sudo apt-get install build-essential libz-dev zlib1g-dev
 ```
 其他的问题就是参考GraalVM官网了。
 
-所以说开发者要是有MacBook啊！
+所以说开发者要使用MacBook啊！
 
